@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @ignwombat
-- 👀 I’m interested in programming, music production and various games
-- 🌱 I’m currently learning MERN-stack
-- 💞️ I’m looking to collaborate on: I NEVER collaborate, I do EVERYTHING myself (totally)
-- 📫 How to reach me: ignwombat@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Norwegian
-
-<!---
-ignwombat/ignwombat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# IgnWombat
+- I'm some Norwegian dude who knows a little too much about web dev
+- I abuse MERN-stack
+- I make music
+- I made a few silly Majora's Mask Recomp mods
